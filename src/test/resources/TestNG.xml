@@ -1,0 +1,8 @@
+<suite name = "IyzicoProject" >
+    <parameter name ="browser" value ="Chrome" />
+    <test name="Iyzico" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
